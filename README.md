@@ -11,7 +11,14 @@ Développer et déployer une application web en utilisant Docker et Kubernetes, 
 Fonctionnalités  
 - Formulaire d'inscription : Ajout d’étudiants via un formulaire interactif.  
 - Page d'accueil : Liste des étudiants inscrits.  
-- Gestion des étudiants : Modification et suppression des inscriptions.  
+- Gestion des étudiants : Modification et suppression des inscriptions.
+
+
+
+Structure de l'application:
+![image](https://github.com/user-attachments/assets/978f6dc1-ef4e-4c02-9430-c72ff8bed0a3)
+
+
 
 ---
 
